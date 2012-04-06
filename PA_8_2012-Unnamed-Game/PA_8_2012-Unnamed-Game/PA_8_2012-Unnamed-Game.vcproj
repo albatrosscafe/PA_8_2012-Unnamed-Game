@@ -170,6 +170,10 @@
 			Filter="cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx"
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
+			<File
+				RelativePath=".\main.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -182,6 +186,10 @@
 			</File>
 			<File
 				RelativePath=".\Monster_Base.h"
+				>
+			</File>
+			<File
+				RelativePath=".\Unit_Base.h"
 				>
 			</File>
 		</Filter>
