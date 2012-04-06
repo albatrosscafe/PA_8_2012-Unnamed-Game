@@ -189,6 +189,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\Grid.h"
+				>
+			</File>
+			<File
 				RelativePath=".\Hero_Base.h"
 				>
 			</File>
