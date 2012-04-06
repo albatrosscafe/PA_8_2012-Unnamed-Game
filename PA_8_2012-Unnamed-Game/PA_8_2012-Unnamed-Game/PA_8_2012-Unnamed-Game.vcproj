@@ -174,10 +174,6 @@
 				RelativePath=".\main.cpp"
 				>
 			</File>
-			<File
-				RelativePath=".\Unit_Base.cpp"
-				>
-			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -210,6 +206,10 @@
 			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav"
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
+			<File
+				RelativePath=".\Unit_Base.cpp"
+				>
+			</File>
 		</Filter>
 	</Files>
 	<Globals>
